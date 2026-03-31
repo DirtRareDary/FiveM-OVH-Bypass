@@ -1,3 +1,7 @@
+/*
+ * edu only
+ * might be patched
+ */
 #include <unistd.h>
 #include <time.h>
 #include <sys/types.h>
