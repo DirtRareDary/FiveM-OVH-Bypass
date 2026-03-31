@@ -19,10 +19,4 @@ gcc -o fivem_ddos fivem_ddos.c -pthread
 👤 **0x07D4**
 
 * Github: [@DirtRareDary](https://github.com/DirtRareDary)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-
 ***
